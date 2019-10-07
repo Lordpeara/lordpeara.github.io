@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: https://lordpeara.github.io/sitemap.xml
